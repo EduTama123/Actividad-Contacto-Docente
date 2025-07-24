@@ -9,7 +9,7 @@ export const EjercicioUno = () => {
         <h3>Ejercicio Uno</h3><br />
         <h4>Funciones</h4><br />
         <h6>1.	Crear una función con parámetros que permita calcular el área de un cuadrado</h6><br />
-        <span>El área de un cuadrado de lado 5 es: {areaCuadrado(5)}</span>
+        <span>El área de un cuadrado de lado 100 es: {areaCuadrado(100)}</span>
     </div>
   )
 }

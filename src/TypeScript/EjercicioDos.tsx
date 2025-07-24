@@ -2,7 +2,7 @@
 export const EjercicioDos = () => {
 
     //ARREGLO
-    const numeros: number[] = [2, 4, 6, 8, 10];
+    const numeros: number[] = [21, 17, 40, 95, 74];
     //FUNCION
     const sumarElementos = (arreglo: number[]): number => {
         let suma = 0;
